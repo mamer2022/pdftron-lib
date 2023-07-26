@@ -1,0 +1,432 @@
+{
+  "action": {
+    "apply": "تطبيق",
+    "applyAll": "تطبيق",
+    "calibrate": "موازنة",
+    "cancel": "الغاء",
+    "clear": "مسح",
+    "close": "اغلاق",
+    "undo": "تراجع",
+    "redo": "اعادة",
+    "comment": "تعليق",
+    "reply": "رد",
+    "copy": "نسخ",
+    "delete": "حذف",
+    "group": "مجموعة",
+    "ungroup": "الغاء مجموعة",
+    "download": "تنزيل",
+    "edit": "تعديل",
+    "extract": "استخراج",
+    "enterFullscreen": "شاشة كاملة",
+    "exitFullscreen": "تصغير الشاشة",
+    "fit": "Fit",
+    "fitToPage": "Fit to page",
+    "fitToWidth": "Fit to width",
+    "more": "المزيد",
+    "openFile": "فتح ملف",
+    "pagePrev": "الصفحة السابقة",
+    "pageNext": "الصفحة التالية",
+    "pageSet": "ضبط الصفحة",
+    "print": "طباعة",
+    "name": "الاسم",
+    "ok": "موافق",
+    "rotate": "اتجاة الصفحة",
+    "rotateClockwise": "تدوير مع عقارب الساعة",
+    "rotateCounterClockwise": "تدوير عكس عقارب الساعة",
+    "save": "حفظ",
+    "post": "إرسال",
+    "create": "إضافة",
+    "showMoreResults": "عرض المزيد من النتائج",
+    "sign": "توقيع",
+    "style": "ضبط الشكل",
+    "submit": "إرسال",
+    "zoom": "المقاس",
+    "zoomIn": "تكبير",
+    "zoomOut": "تصغير",
+    "zoomSet": "ضبط المقاس",
+    "zoomControls": "مقاسات الضبط",
+    "draw": "رسم",
+    "type": "نوع",
+    "upload": "رفع",
+    "link": "الرابط",
+    "darkMode": "الوضع الليلي",
+    "lightMode": "الوضع النهاري",
+    "fileAttachmentDownload": "تنزيل الملف",
+    "prevResult": "النتائج السابقة",
+    "nextResult": "النتائج التالية",
+    "prev": "السابق",
+    "next": "التالي",
+    "startFormEditing": "بدء تعديل النموذج",
+    "exitFormEditing": "الخروج من تعديل النموذج",
+    "exit": "خروج"
+  },
+  "annotation": {
+    "areaMeasurement": "المنطقة",
+    "arrow": "السهم",
+    "callout": "Callout",
+    "crop": "قص",
+    "caret": "Caret",
+    "distanceMeasurement": "المسافة",
+    "countMeasurement": "قيسا الابعاد",
+    "ellipse": "صفط",
+    "eraser": "مسح",
+    "fileattachment": "المرفق",
+    "freehand": "يد حرة",
+    "freetext": "نص حر",
+    "highlight": "تحديد",
+    "line": "خط",
+    "perimeterMeasurement": "Perimeter",
+    "polygon": "مخطط",
+    "polygonCloud": "سحابة",
+    "polyline": "مخطط",
+    "rectangle": "مستطيل",
+    "redact": "مشذب",
+    "signature": "توقيع",
+    "squiggly": "خط ",
+    "stamp": "ختم",
+    "stickyNote": "ملاحظة",
+    "strikeout": "خط ",
+    "underline": "خط سفلي",
+    "custom": "محدد",
+    "rubberStamp": "ممحاه",
+    "note": "ملاحظة"
+  },
+  "rubberStamp": {
+    "Approved": "موافق",
+    "AsIs": "كما هو",
+    "Completed": "مكتمل",
+    "Confidential": "سري",
+    "Departmental": "مدري",
+    "Draft": "مسودة",
+    "Experimental": "تجريبي",
+    "Expired": "منتهي",
+    "Final": "نهائي",
+    "ForComment": "للتعليق",
+    "ForPublicRelease": "للنشر العام",
+    "InformationOnly": "معلومات فقط",
+    "NotApproved": "غير موافق عليه",
+    "NotForPublicRelease": "سري وخاص",
+    "PreliminaryResults": "نتائج",
+    "Sold": "مباع",
+    "TopSecret": "سري للغاية",
+    "Void": "ملغي",
+    "SHSignHere": "وقع هنا",
+    "SHWitness": "شاهد",
+    "SHInitialHere": "التأشير هنا",
+    "SHAccepted": "موافق",
+    "SBRejected": "مرفوض"
+  },
+  "component": {
+    "leftPanel": "اللوحة",
+    "toolsHeader": "الادوات",
+    "searchOverlay": "البحث",
+    "searchPanel": "البحث",
+    "menuOverlay": "القائمة",
+    "notesPanel": "التعليق",
+    "outlinesPanel": "الخطوط العريضة",
+    "bookmarksPanel": "إشارات مرجعية",
+    "newBookmark": "إشارة مرجعية جديدة",
+    "bookmarkPage": "الصفحة",
+    "layersPanel": "الطبقات",
+    "thumbnailsPanel": "الصور الرمزية",
+    "toolsButton": "الأدوات",
+    "redaction": "تنقيح",
+    "viewControlsOverlay": "إظهار أدوات التحكم",
+    "calibration": "موازنة",
+    "zoomOverlay": "طبقة التكبير",
+    "textPopup": "نص منبثق",
+    "createStampButton": "إنشاء ختم جديد",
+    "filter": "تصفية"
+  },
+  "message": {
+    "toolsOverlayNoPresets": "إخفاء الإعدادات",
+    "badDocument": "فشل تحميل الملف ،الملف تالف أو غير موجود",
+    "customPrintPlaceholder": "مثال 3،4-10",
+    "encryptedAttemptsExceeded": "فشل في تحميل الملف المشفر،محاولات متعددة",
+    "encryptedUserCancelled": "فشل في تحميل الملف المشفر،إلغاء إدخال كلمة السر",
+    "enterPassword": "الملف محمي بواسطة كلمة سر برجاء إدخال كلمة السر",
+    "incorrectPassword": "كلمة سر خاظئة المحولات المتبقية: {{ remainingAttempts }}",
+    "noAnnotations": "إبدأ بتحرير ملاحظات لإضافة تعليق",
+    "noAnnotationsFilter": "إبدء بتحرير ملاحظات و التصفية ستظهر هنا",
+    "noOutlines": "الملف لا يتضمن إطار",
+    "noResults": "لا يوجد نتائج",
+    "numResultsFound": "النتائج المتاحة",
+    "notSupported": "نوع الملف غير مدعوم",
+    "passwordRequired": "كلمة السر مطلوبة",
+    "preparingToPrint": "تجهيز للطباعة...",
+    "annotationReplyCount": "{{count}} رد",
+    "annotationReplyCount_plural": "{{count}} الردود",
+    "printTotalPageCount": "الكل: {{count}} صفحة",
+    "printTotalPageCount_plural": "الكل: {{count}} صفحات",
+    "processing": "معالجة...",
+    "searching": "جاري البحث...",
+    "searchCommentsPlaceholder": "البحث في التعليقات",
+    "searchDocumentPlaceholder": "البحث في الملفات",
+    "signHere": "وقع هنا",
+    "insertTextHere": "إدخل نص هنا",
+    "imageSignatureAcceptedFileTypes": "فقط {{acceptedFileTypes}} مقبولين",
+    "enterMeasurement": "إدخل قياس بين نقطتين",
+    "errorEnterMeasurement": "الرقم الذي أدخلته غير صحيح يمكنك إدخال أرقام مثل 4.5 و 1/5 7",
+    "linkURLorPage": "ربط صفحة أو رابط",
+    "enterReplacementText": "إدخل النص الذي تريد إستبداله",
+    "sortBy": "ترتيب بواسطة",
+    "emptyCustomStampInput": "نص الختم لا يمكن أن يكون فارغ"
+  },
+  "option": {
+    "notesOrder": {
+      "dropdownLabel": "ترتيب بواسطة",
+      "position": "الوضع",
+      "time": "الوقت",
+      "status": "الحالة",
+      "author": "الناشر",
+      "type": "النوع"
+    },
+    "toolbarGroup": {
+      "dropdownLabel": "مجموعات التحكم",
+      "toolbarGroup-View": "مشاهدة",
+      "toolbarGroup-Annotate": "ملاحظات",
+      "toolbarGroup-Shapes": "أشكال",
+      "toolbarGroup-Insert": "إدخال",
+      "toolbarGroup-Measure": "قياس",
+      "toolbarGroup-Edit": "تعديل",
+      "toolbarGroup-FillAndSign": "املأ وتوقيع",
+      "toolbarGroup-Forms": "نماذج",
+      "toolbarGroup-Redact": "تنقيح"
+    },
+    "annotationColor": {
+      "StrokeColor": "إطار",
+      "FillColor": "ملئ",
+      "TextColor": "نص"
+    },
+    "colorPalette": {
+      "colorLabel": "لون"
+    },
+    "displayMode": {
+      "layout": "شكل الصفحة",
+      "pageTransition": "حركة الصفحة"
+    },
+    "documentControls": {
+      "placeholder": "إختيار الصفحات مثال 2،5-9"
+    },
+    "layout": {
+      "cover": "الغلاف",
+      "double": "صفحة ثنائية",
+      "single": "صفحة أحادية"
+    },
+    "notesPanel": {
+      "separator": {
+        "today": "اليوم",
+        "yesterday": "أمس"
+      }
+    },
+    "pageTransition": {
+      "continuous": "صفحات متصلة",
+      "default": "صفحة تلو الأخري",
+      "reader": "قارئ"
+    },
+    "print": {
+      "all": "الكل",
+      "current": "الحالي",
+      "pages": "صفحات الطباعة",
+      "pageQuality": "جودة الطباعة",
+      "qualityNormal": "عادي",
+      "qualityHigh": "عالي",
+      "includeAnnotations": "تضمين الملاحظات",
+      "includeComments": "تضمين التعليقات",
+      "addWatermarkSettings": "إضافة علامة مائية"
+    },
+    "redaction": {
+      "markForRedaction": "وضع علامة للتنقيح"
+    },
+    "searchPanel": {
+      "caseSensitive": "مطابق تماما للحروف",
+      "wholeWordOnly": "كامل الكلمات",
+      "wildcard": "عام"
+    },
+    "toolsOverlay": {
+      "currentStamp": "الختم الحالي",
+      "currentSignature": "التوقيع الحالي",
+      "signatureAltText": "توقيع"
+    },
+    "stampOverlay": {
+      "addStamp": "إضافة ختم جديد"
+    },
+    "signatureOverlay": {
+      "addSignature": "إضافة توقيع جديد"
+    },
+    "signatureModal": {
+      "modalName": "إنشاء توقيع جديد",
+      "saveSignature": "حفظ التوقيع",
+      "dragAndDrop": "اسحب و إلقي صورك هنا",
+      "or": "أو",
+      "pickImage": "إختر توقيع"
+    },
+    "filterAnnotModal": {
+      "commentBy": "تعليق بواسطة",
+      "types": "أنواع"
+    },
+    "status": {
+      "status": "الحالة"
+    },
+    "state": {
+      "accepted": "مقبول",
+      "rejected": "مرفوض",
+      "completed": "مكتمل",
+      "cancelled": "ملغي",
+      "set": "تعيين الحالة:",
+      "setBy": "تعيين بواسطة",
+      "none": "لا يوجد",
+      "marked": "معلم",
+      "unmarked": "غير معلم"
+    },
+    "measurementOverlay": {
+      "scale": "نسبة القياس",
+      "angle": "زاوية",
+      "distance": "مسافة",
+      "perimeter": "محيط",
+      "area": "مساحة",
+      "distanceMeasurement": "قياس مسافة",
+      "perimeterMeasurement": "قياس محيط",
+      "areaMeasurement": "قياس مساحة",
+      "countMeasurement": "قياس عدد",
+      "radius": "نصف قطر",
+      "count": "عدد"
+    },
+    "measurementOption": {
+      "scale": "مقياس"
+    },
+    "styleOption": {
+      "style": "نمط",
+      "solid": "مصمت",
+      "cloudy": "مغيم"
+    },
+    "slider": {
+      "opacity": "شفافية",
+      "thickness": "إطار",
+      "text": "حجم الخط"
+    },
+    "shared": {
+      "page": "صفحة",
+      "precision": "دقة",
+      "enableSnapping": "تفعيل الانجذاب لأدوات القياس"
+    },
+    "watermark": {
+      "size": "الحجم",
+      "location": "إختر مكان لتعديل العلامة المائية",
+      "text": "النص",
+      "style": "النمط",
+      "resetAllSettings": "إعادة ضبط الإعدادات",
+      "font": "الخط",
+      "locations": {
+        "center": "المنتصف",
+        "topLeft": "أعلى اليسار",
+        "topRight": "أعلى اليمين",
+        "topCenter": "أعلى المنتصف",
+        "bottomLeft": "أسفل اليسار",
+        "bottomRight": "أسفل اليمين",
+        "bottomCenter": "أسفل المنتصف"
+      }
+    },
+    "thumbnailPanel": {
+      "delete": "الحذف",
+      "rotateClockwise": "مع عقارب الساعة",
+      "rotateCounterClockwise": "عكس عقارب الساعة"
+    },
+    "richText": {
+      "bold": "سميك",
+      "italic": "مائل",
+      "underline": "خط سفلي",
+      "strikeout": "تحديد"
+    },
+    "customStampModal": {
+      "stampText": "نص الختم:",
+      "timestampText": "نص الختم الزمني:",
+      "stampColor": "لون الختم:",
+      "Username": "إسم المستخدم",
+      "Date": "التاريخ",
+      "Time": "الساعة"
+    }
+  },
+  "warning": {
+    "deletePage": {
+      "deleteTitle": "حذف الصفحة",
+      "deleteMessage": "هل أنت متأكد من حذف الصفحات المختارة،لا يمكن الرجوع في هذا",
+      "deleteLastPageMessage": "لا يمكنك خذف كل الصفحات برجاء ترك واحدة"
+    },
+    "redaction": {
+      "applyTile": "تطبيق",
+      "applyMessage": "هذا الأختيار سوف يحذف جميع العناصر المختارة لا يمكن الرجوع في هذا"
+    },
+    "selectPage": {
+      "selectTitle": "لا يوجد صفحات مختاره",
+      "selectMessage": "برجاء أختيار صفحة و المحاولة مرة اخرى"
+    }
+  },
+  "shortcut": {
+    "arrow": "(A)",
+    "callout": "(C)",
+    "copy": "(Ctrl C)",
+    "delete": "(Del)",
+    "ellipse": "(O)",
+    "eraser": "(E)",
+    "freehand": "(F)",
+    "freetext": "(T)",
+    "highlight": "(H)",
+    "line": "(L)",
+    "pan": "(P)",
+    "rectangle": "(R)",
+    "rotateClockwise": "(Ctrl Shift +)",
+    "rotateCounterClockwise": "(Ctrl Shift -)",
+    "select": "(Esc)",
+    "signature": "(S)",
+    "squiggly": "(G)",
+    "stamp": "(I)",
+    "redo": "(Ctrl Shift Z)",
+    "undo": "(Ctrl Z)",
+    "stickyNote": "(N)",
+    "strikeout": "(K)",
+    "underline": "(U)",
+    "zoomIn": "(Ctrl +)",
+    "zoomOut": "(Ctrl -)",
+    "richText": {
+      "bold": "(Ctrl B)",
+      "italic": "(Ctrl I)",
+      "underline": "(Ctrl U)",
+      "strikeout": "(Ctrl K)"
+    }
+  },
+  "tool": {
+    "pan": "يد التحريك",
+    "select": "أداة الإختيار",
+    "Marquee": "تكبير المنطقة المحددة",
+    "Link": "ربط رابط أو صفحة",
+    "Standard": "الأساسي",
+    "Custom": "متخلفة"
+  },
+  "link": {
+    "url": "رابط",
+    "page": "صفحة",
+    "enterurl": "إدخل الرابط الذي تريد الربط به",
+    "enterpage": "أختر الصفحة التي تريد الربط بها"
+  },
+  "datePicker": {
+    "previousMonth": "الشهر السابق",
+    "nextMonth": "الشهر القادم",
+    "months": [
+      "يناير",
+      "فبراير",
+      "مارس",
+      "أبريل",
+      "مايو",
+      "يونيو",
+      "يوليو",
+      "أغسطس",
+      "سبتمبر",
+      "أكتوبر",
+      "نوفمبر",
+      "ديسمبر"
+    ],
+    "weekdays": ["الأحد", "الإثنين", "الثلثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"],
+    "weekdaysShort": ["الأحد", "الإثنين", "الثلثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"]
+  }
+}
